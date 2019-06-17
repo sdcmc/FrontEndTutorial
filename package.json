@@ -1,7 +1,7 @@
 {
-  "name": "frontendtutorial",
+  "name": "FrontEndTutorial",
   "version": "1.0.0",
-  "description": "tutorial",
+  "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -15,8 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/sdcmc/FrontEndTutorial.git"
   },
+  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sdcmc/FrontEndTutorial/issues"
   },
