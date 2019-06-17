@@ -1,6 +1,6 @@
 {
   "name": "FrontEndTutorial",
-  "version": "1.0.0",
+  "version": "0.01",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -17,7 +17,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sdcmc/FrontEndTutorial/issues"
   },
