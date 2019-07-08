@@ -1,9 +1,14 @@
 # FrontEndTutorial
 フロントエンドのフレームワーク、ライブラリをとりあえず触ってみる
 
-* React
-* Webpack  
-(編集中)
+## React
+
+* JSXのレンダリングを行う
+
+## Webpack
+
+* index.jsをエントリーファイトとしてモジュールバンドリングを行う
+* Babelのビルド設定を持たせる
 
 ## Babel
 
